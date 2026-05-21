@@ -1,6 +1,8 @@
 # SOC-Analyst-Portfolio
 Hands-on cyber security labs, threat investigation, and SOC Analyst training documentation.
 
+<a href="https://www.linkedin.com/in/andy-undefined-0a1901410/"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=Linkedin&logocolour=white" /></a>
+
 [Brief Introduction]
 
 Welcome to my cybersecurity portfolio. This space demonstrates my practical skills in threat detection, analysis, and incident response, honed through extensive use of TryHackMe simulations and labs. I have hands-on experience leveraging leading SIEM platforms, including Splunk and Elastic, to monitor security events, investigate incidents, and fortify digital defenses. Explore my projects to see how I apply these capabilities to real-world security challenges.
