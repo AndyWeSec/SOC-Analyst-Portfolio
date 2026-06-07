@@ -1,7 +1,7 @@
 # SOC-Analyst-Portfolio
 Hands-on cyber security labs, threat investigation, and SOC Analyst training documentation.
 
-<a href="[https://www.linkedin.com/in/andy-undefined-0a1901410/]"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=Linkedin&logocolour=white" /></a>
+<a href="https://www.linkedin.com/in/andy-weafer-02792039a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=Linkedin&logocolour=white" /></a>
 
 [Brief Introduction]
 
