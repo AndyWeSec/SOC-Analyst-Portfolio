@@ -103,7 +103,9 @@ The course often includes hands-on labs, network traffic analysis, endpoint moni
 * Parsed raw log outputs into structured JSON format to test ingestion capabilities for downstream monitoring platforms.
 
 
+### Project 1
 
+https://github.com/AndyWeSec/SOC-Simulator-Phishing/blob/main/README.md
 
 
 
