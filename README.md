@@ -106,10 +106,10 @@ The course often includes hands-on labs, network traffic analysis, endpoint moni
 ### Project 1
 https://github.com/AndyWeSec/SOC-Simulator-Phishing
 
-
-
 ### Wireshark Investigation
-
 https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation
+
+### Project 2 
+https://github.com/AndyWeSec/SOC-Simulator-Phishing-2
 
 
