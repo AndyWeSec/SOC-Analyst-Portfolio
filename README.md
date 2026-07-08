@@ -22,25 +22,25 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM)
-<img src="https://github.com" width="45" height="45" alt="Splunk" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Elastic" />
+![Splunk](https://githubusercontent.com) ![Elastic](https://githubusercontent.com)
 
 ### 🌐 Network Security & Utilities
-<img src="https://github.com" width="45" height="45" alt="Wireshark" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Nmap" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="pfSense" />
+![Wireshark](https://githubusercontent.com) ![Nmap](https://githubusercontent.com) ![pfSense](https://githubusercontent.com)
 
 ### 💻 Endpoint Detection & Response (EDR)
-<img src="https://github.com" width="45" height="45" alt="Microsoft Defender" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Wazuh" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Sysinternals" />
+![Microsoft Defender](https://githubusercontent.com) ![Wazuh](https://githubusercontent.com)
 
 ### 🔍 Threat Intelligence & Malware Analysis
-<img src="https://github.com" width="45" height="45" alt="VirusTotal" />
+![VirusTotal](https://githubusercontent.com)
 
 ### ⚙️ Operating Systems & Environments
-<img src="https://github.com" width="45" height="45" alt="Kali Linux" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Linux" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Windows Server" />
+![Kali Linux](https://githubusercontent.com) ![Linux](https://githubusercontent.com) ![Windows Server](https://githubusercontent.com)
 
 ### 💻 Scripting & Automation
-<img src="https://github.com" width="45" height="45" alt="Python" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Bash" />
+![Python](https://githubusercontent.com) ![Bash](https://githubusercontent.com)
 
 ### 🎮 Cybersecurity Training & Labs
-<img src="https://github.com" width="45" height="45" alt="TryHackMe" />
+![TryHackMe](https://githubusercontent.com)
 
 
 
