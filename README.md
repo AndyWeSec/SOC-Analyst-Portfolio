@@ -58,25 +58,19 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Certificates
 
 ### Open University - Introduction To Cyber Security
-#### September 2025
-![Open University](https://shields.io)
+📅 **September 2025**
+📜 **Certificate Earned**
 
 Covering core concepts of online safety, threat identification, risk management, and best practices for protecting personal and organizational data.
 
-
 ### SOC Level 1
-#### March 2026 - Present
-
-<a href="YOUR_TRYHACKME_PROFILE_URL"><img src="https://wikimedia.org" alt="TryHackMe" height="40" valign="middle"/></a>
+📅 **March 2026 - Present**
+⏳ **In Progress / Certification Pending**
 
 Entry-level course designed to prepare for work as a Security Operations Center Analyst. It focusing on defensive security fundamentals, alert monitoring, and incident response.
 
-Understand SOC structure, workflows, roles, and KPIs.
-Monitor, triage, and investigate security alerts using SIEM tools like Splunk, Elastic Stack, and Wazuh.
-Analyze phishing emails, detect network and endpoint threats, and track potential intrusions.
-Apply threat intelligence, conduct basic malware and log analysis, and follow incident response procedures.
+Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and investigate security alerts using SIEM tools like Splunk, Elastic, and Wireshark...
 
-The course often includes hands-on labs, network traffic analysis, endpoint monitoring, and a capstone project simulating real-world SOC investigations. Completion equips learners with the skills to handle Level 1 security alerts and contribute to a SOC team.
 
 ## Projects
 
