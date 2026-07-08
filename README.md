@@ -22,25 +22,34 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM)
-![Splunk](https://githubusercontent.com) ![Elastic](https://githubusercontent.com)
+* 📊 **Splunk**
+* 🪵 **Elastic**
 
 ### 🌐 Network Security & Utilities
-![Wireshark](https://githubusercontent.com) ![Nmap](https://githubusercontent.com) ![pfSense](https://githubusercontent.com)
+* 🦈 **Wireshark**
+* 🗺️ **Nmap**
+* 🧱 **pfSense**
 
 ### 💻 Endpoint Detection & Response (EDR)
-![Microsoft Defender](https://githubusercontent.com) ![Wazuh](https://githubusercontent.com)
+* 🛡️ **Microsoft Defender**
+* 📈 **Wazuh**
+* 🔍 **Sysinternals**
 
 ### 🔍 Threat Intelligence & Malware Analysis
-![VirusTotal](https://githubusercontent.com)
+* 🧪 **VirusTotal**
 
 ### ⚙️ Operating Systems & Environments
-![Kali Linux](https://githubusercontent.com) ![Linux](https://githubusercontent.com) ![Windows Server](https://githubusercontent.com)
+* 🐉 **Kali Linux**
+* 🐧 **Linux**
+* 🖥️ **Windows Server**
 
 ### 💻 Scripting & Automation
-![Python](https://githubusercontent.com) ![Bash](https://githubusercontent.com)
+* 🐍 **Python**
+* 🐚 **Bash**
 
 ### 🎮 Cybersecurity Training & Labs
-![TryHackMe](https://githubusercontent.com)
+* 🟥 **TryHackMe**
+
 
 
 
