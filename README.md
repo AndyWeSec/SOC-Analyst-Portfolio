@@ -22,25 +22,26 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM)
-<img src="./icons/splunk.png" width="40" height="40" alt="Splunk" /> <img src="./icons/elastic.png" width="40" height="40" alt="Elastic" />
+<img src="https://github.com" width="45" height="45" alt="Splunk" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Elastic" />
 
 ### 🌐 Network Security & Utilities
-<img src="./icons/wireshark.png" width="40" height="40" alt="Wireshark" /> <img src="./icons/nmap.png" width="40" height="40" alt="Nmap" /> <img src="./icons/pfsense.png" width="40" height="40" alt="pfSense" />
+<img src="https://github.com" width="45" height="45" alt="Wireshark" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Nmap" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="pfSense" />
 
 ### 💻 Endpoint Detection & Response (EDR)
-<img src="./icons/microsoft.png" width="40" height="40" alt="Microsoft Defender" /> <img src="./icons/wazuh.png" width="40" height="40" alt="Wazuh" />
+<img src="https://github.com" width="45" height="45" alt="Microsoft Defender" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Wazuh" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Sysinternals" />
 
 ### 🔍 Threat Intelligence & Malware Analysis
-<img src="./icons/virustotal.png" width="40" height="40" alt="VirusTotal" />
+<img src="https://github.com" width="45" height="45" alt="VirusTotal" />
 
 ### ⚙️ Operating Systems & Environments
-<img src="./icons/linux.png" width="40" height="40" alt="Linux" /> <img src="./icons/kalilinux.png" width="40" height="40" alt="Kali Linux" /> <img src="./icons/windows.png" width="40" height="40" alt="Windows Server" />
+<img src="https://github.com" width="45" height="45" alt="Kali Linux" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Linux" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Windows Server" />
 
 ### 💻 Scripting & Automation
-<img src="./icons/python.png" width="40" height="40" alt="Python" /> <img src="./icons/bash.png" width="40" height="40" alt="Bash" />
+<img src="https://github.com" width="45" height="45" alt="Python" /> &nbsp; <img src="https://github.com" width="45" height="45" alt="Bash" />
 
 ### 🎮 Cybersecurity Training & Labs
-<img src="./icons/tryhackme.png" width="40" height="40" alt="TryHackMe" />
+<img src="https://github.com" width="45" height="45" alt="TryHackMe" />
+
 
 
 
