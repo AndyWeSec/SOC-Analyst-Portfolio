@@ -22,25 +22,26 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM)
-<img src="https://jsdelivr.net" width="90" height="40" alt="Splunk" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Elastic" />
+<img src="./icons/splunk.png" width="40" height="40" alt="Splunk" /> <img src="./icons/elastic.png" width="40" height="40" alt="Elastic" />
 
 ### 🌐 Network Security & Utilities
-<img src="https://simpleicons.org" width="40" height="40" alt="Wireshark" /> <img src="https://simpleicons.org" width="40" height="40" alt="Nmap" /> <img src="https://simpleicons.org" width="40" height="40" alt="pfSense" />
+<img src="./icons/wireshark.png" width="40" height="40" alt="Wireshark" /> <img src="./icons/nmap.png" width="40" height="40" alt="Nmap" /> <img src="./icons/pfsense.png" width="40" height="40" alt="pfSense" />
 
 ### 💻 Endpoint Detection & Response (EDR)
-<img src="https://simpleicons.org" width="40" height="40" alt="Microsoft Defender" /> <img src="https://simpleicons.org" width="40" height="40" alt="Wazuh" />
+<img src="./icons/microsoft.png" width="40" height="40" alt="Microsoft Defender" /> <img src="./icons/wazuh.png" width="40" height="40" alt="Wazuh" />
 
 ### 🔍 Threat Intelligence & Malware Analysis
-<img src="https://simpleicons.org" width="40" height="40" alt="VirusTotal" />
+<img src="./icons/virustotal.png" width="40" height="40" alt="VirusTotal" />
 
 ### ⚙️ Operating Systems & Environments
-<img src="https://jsdelivr.net" width="40" height="40" alt="Linux" /> <img src="https://simpleicons.org" width="40" height="40" alt="Kali Linux" /> <img src="https://simpleicons.org" width="40" height="40" alt="Windows Server" />
+<img src="./icons/linux.png" width="40" height="40" alt="Linux" /> <img src="./icons/kalilinux.png" width="40" height="40" alt="Kali Linux" /> <img src="./icons/windows.png" width="40" height="40" alt="Windows Server" />
 
 ### 💻 Scripting & Automation
-<img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Bash" />
+<img src="./icons/python.png" width="40" height="40" alt="Python" /> <img src="./icons/bash.png" width="40" height="40" alt="Bash" />
 
 ### 🎮 Cybersecurity Training & Labs
-<img src="https://simpleicons.org" width="40" height="40" alt="TryHackMe" />
+<img src="./icons/tryhackme.png" width="40" height="40" alt="TryHackMe" />
+
 
 
 
