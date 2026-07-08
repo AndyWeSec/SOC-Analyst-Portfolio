@@ -22,33 +22,26 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Tools
 
 ### 🛡️ Security Operations & Monitoring (SIEM)
-![Splunk](https://shields.io)
-![Elastic](https://shields.io)
+<img src="https://jsdelivr.net" width="90" height="40" alt="Splunk" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Elastic" />
 
 ### 🌐 Network Security & Utilities
-![Wireshark](https://shields.io)
-![Nmap](https://shields.io)
-![PfSense](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" alt="Wireshark" /> <img src="https://simpleicons.org" width="40" height="40" alt="Nmap" /> <img src="https://simpleicons.org" width="40" height="40" alt="pfSense" />
 
 ### 💻 Endpoint Detection & Response (EDR)
-![Microsoft Defender](https://shields.io)
-![Wazuh](https://shields.io)
-![Sysinternals](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" alt="Microsoft Defender" /> <img src="https://simpleicons.org" width="40" height="40" alt="Wazuh" />
 
 ### 🔍 Threat Intelligence & Malware Analysis
-![VirusTotal](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" alt="VirusTotal" />
 
 ### ⚙️ Operating Systems & Environments
-![Kali Linux](https://shields.io)
-![Linux](https://shields.io)
-![Windows Server](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="Linux" /> <img src="https://simpleicons.org" width="40" height="40" alt="Kali Linux" /> <img src="https://simpleicons.org" width="40" height="40" alt="Windows Server" />
 
 ### 💻 Scripting & Automation
-![Python](https://shields.io)
-![Bash](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Bash" />
 
 ### 🎮 Cybersecurity Training & Labs
-![TryHackMe](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" alt="TryHackMe" />
+
 
 
 ## Certificates
