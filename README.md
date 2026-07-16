@@ -110,4 +110,5 @@ https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation
 ### Project 2 
 https://github.com/AndyWeSec/SOC-Simulator-Phishing-2
 
-
+### Project 3
+https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario
