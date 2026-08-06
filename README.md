@@ -65,7 +65,7 @@ Covering core concepts of online safety, threat identification, risk management,
 
 ### SOC Level 1
 📅 **March 2026 - July 2026**
-⏳ **In Progress / Certification Pending**
+
 
 Entry-level course designed to prepare for work as a Security Operations Center Analyst. It focusing on defensive security fundamentals, alert monitoring, and incident response.
 
