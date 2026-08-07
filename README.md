@@ -13,7 +13,7 @@ To secure an entry-level SOC Analyst position where I can leverage my developing
 ## Skills
 • SIEM Analysis & Operations: Gained practical experience implementing and utilizing Splunk and Elastic SIEM platforms for log aggregation, security event monitoring, and initial incident triage. My understanding includes constructing basic queries to extract relevant security data.
 
-• Foundational SOC Skills: Actively enhancing my capabilities through TryHackMe’s comprehensive SOC Level 1 course (currently in progress). This training is equipping me with essential skills in alert analysis, threat identification, and understanding standard operating procedures for SOC analysts.
+• Foundational SOC Skills: Actively enhancing my capabilities through TryHackMe’s comprehensive SOC Level 1 course. This training is equipping me with essential skills in alert analysis, threat identification, and understanding standard operating procedures for SOC analysts.
 
 • Cybersecurity Principles: Solid grasp of core cybersecurity concepts, including common threat types, network fundamentals, and the importance of defensive measures.
 
