@@ -108,37 +108,16 @@ Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and inves
 * Parsed raw log outputs into structured JSON format to test ingestion capabilities for downstream monitoring platforms.
 
 
-### Project 1
-## 🎯 Why This Matters to a SOC Analyst (Interview Talking Points)
+## 📁 Featured Cybersecurity Projects
 
-* **Operational Reality:** Phishing remains the #1 initial access vector for enterprise breaches. As a Tier 1 analyst, a massive percentage of daily ticket volume involves triaging suspicious user-reported emails.
-* **Core Competency:** This lab demonstrates my ability to analyze raw email headers, extract sending infrastructure (SPF/DKIM/DMARC alignment), pivot to OSINT tools for domain reputation, and safely detonate malicious attachments or URLs.
-* **Interview Application:** When an interviewer asks, *"Walk me through your process for investigating a suspected phishing email,"* I can use this project to explain my structured verification workflow, from header analysis to parsing malicious artifacts without alerting the attacker.
+Review my individual repositories for deep-dive technical breakdowns, configuration steps, and full attack-to-detection analysis timelines:
 
-https://github.com/AndyWeSec/SOC-Simulator-Phishing
+* **[Project 1: SOC Simulator Phishing](https://github.com/AndyWeSec/SOC-Simulator-Phishing)**  
+  *Triaging user-reported messaging threats and extracting active domain IOCs.*
+* **[Wireshark Investigation](https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation)**  
+  *Isolating anomalous TCP/UDP network flows, protocol behavior, and C2 beacons.*
+* **[Project 2: SOC Simulator Phishing Part 2](https://github.com/AndyWeSec/SOC-Simulator-Phishing-2)**  
+  *Advanced malicious header validation, attachment detonation, and credential harvesting triage.*
+* **[Project 3: SOC Analyst Invite-Only Scenario](https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario)**  
+  *Stitching multi-stage attack components together to perform an end-to-end incident timeline audit.*
 
-### Wireshark Investigation
-## 🎯 Why This Matters to a SOC Analyst (Interview Talking Points)
-
-* **Operational Reality:** When automated EDR or SIEM alerts are ambiguous, network packet analysis provides the ultimate truth. Analysts must know how to look past a log entry and read raw network traffic during a critical incident.
-* **Core Competency:** This project proves my proficiency with Wireshark filters, identifying anomalous TCP/UDP traffic, isolating data exfiltration attempts, and reconstructing malicious network flows (such as detecting C2 beacons or unauthorized data transfers).
-* **Interview Application:** When an interviewer asks, *"How do you differentiate a false positive from a true malicious connection when looking at network traffic?"* I can reference this investigation to explain how I filter packet captures to pinpoint command-and-control behavior or protocol anomalies.
-
-https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation
-
-### Project 2 
-## 🎯 Why This Matters to a SOC Analyst (Interview Talking Points)
-
-* **Operational Reality:** Phishing remains the #1 initial access vector for enterprise breaches. As a Tier 1 analyst, a massive percentage of daily ticket volume involves triaging suspicious user-reported emails.
-* **Core Competency:** This lab demonstrates my ability to analyze raw email headers, extract sending infrastructure (SPF/DKIM/DMARC alignment), pivot to OSINT tools for domain reputation, and safely detonate malicious attachments or URLs.
-* **Interview Application:** When an interviewer asks, *"Walk me through your process for investigating a suspected phishing email,"* I can use this project to explain my structured verification workflow, from header analysis to parsing malicious artifacts without alerting the attacker.
-https://github.com/AndyWeSec/SOC-Simulator-Phishing-2
-
-### Project 3
-## 🎯 Why This Matters to a SOC Analyst (Interview Talking Points)
-
-* **Operational Reality:** Attackers rarely stop at a single action. SOC analysts must be able to stitch together fragmented clues across multiple logs to track a full, multi-stage attack lifecycle.
-* **Core Competency:** This "invite-only" scenario simulates a sophisticated corporate threat. Completing it demonstrates my ability to think like an incident responder, map attacker actions directly to the MITRE ATT&CK framework, and establish a clear timeline of events.
-* **Interview Application:** When an interviewer asks, *"Tell me about a complex incident scenario you analyzed and how you approached it,"* I can walk them through this project to show how I investigated a realistic threat end-to-end—from initial alert discovery to root cause analysis.
-
-https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario
