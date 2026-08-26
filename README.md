@@ -79,29 +79,25 @@ Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and inves
 
 
 
-## Projects
 ## 📁 Featured Cybersecurity Projects
 
 ### 🛡️ 1. SOC Analyst Simulator Lab & Phishing Triage
 **Tools:** Splunk, Elastic, VirusTotal, TryHackMe | **Links:** [Project 1](https://github.com/AndyWeSec/SOC-Simulator-Phishing) | [Project 2](https://github.com/AndyWeSec/SOC-Simulator-Phishing-2)
 
-*   **Tech:** Triaged phishing emails, web attacks, and insider threats, analyzing headers and C2 domains with OSINT tools.
-*   **🎯 Interview Focus:** Proves capability in analyzing raw email headers, SPF/DKIM/DMARC alignment, and structured triage workflow for phishing attacks.
-
----
+- **Tech:** Triaged phishing emails and C2 domains using OSINT tools and log analysis.
+- **🎯 Interview Focus:** Showcases skills in email header analysis (SPF/DKIM/DMARC) and structured phishing triage.
 
 ### 🔍 2. Active Directory & Endpoint Detection Lab
-**Tools:** Wazuh EDR, Win Server, Kali, Sysinternals, Wireshark | **Links:** [Wireshark Repo](https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation)
+**Tools:** Wazuh EDR, Win Server, Kali, Wireshark | **Links:** [Wireshark Repo](https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation)
 
-*   **Tech:** Deployed AD with Wazuh, simulated/investigated attacks from Kali, and analyzed telemetry and packet captures.
-*   **🎯 Interview Focus:** Highlights proficiency in Wireshark, identifying anomalous TCP/UDP traffic, and mapping host events to MITRE ATT&CK.
-
----
+- **Tech:** Investigated simulated attacks against Active Directory, analyzing endpoint telemetry and network traffic.
+- **🎯 Interview Focus:** Highlights proficiency with Wazuh, Wireshark, and mapping events to MITRE ATT&CK.
 
 ### 🧪 3. Network Test Project & Incident Response Scenario
 **Tools:** Python, Bash, Nmap, pfSense | **Links:** [Scenario](https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario)
 
-*   **Tech:** Configured a pfSense sandbox, automated network scans with Python/Bash, and parsed logs into JSON.
-*   **🎯 Interview Focus:** Demonstrates skills in tracing multi-stage threats across log streams, automating analysis, and building incident timelines.
+- **Tech:** Built a pfSense lab to automate scans and analyze network traffic logs.
+- **🎯 Interview Focus:** Demonstrates abilities in creating incident timelines and automating threat detection.
+
 
 
