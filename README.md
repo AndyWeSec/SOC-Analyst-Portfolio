@@ -80,44 +80,28 @@ Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and inves
 
 
 ## Projects
-
 ## 📁 Featured Cybersecurity Projects
 
-### 🛡️ 1. SOC Analyst Simulator Lab
-**Tools Used:** `Splunk` `Elastic` `VirusTotal` `TryHackMe`
-* Simulated enterprise security alert triaging within a hands-on Security Operations Center (SOC) environment.
-* Analysed simulated alerts including phishing emails, web application attacks, and insider threats to identify Indicators of Compromise (IoCs).
-* Investigated malicious attachments and command-and-control (C2) domains using **VirusTotal** threat intelligence to validate true positives.
+### 🛡️ 1. SOC Analyst Simulator Lab & Phishing Triage
+**Tools:** Splunk, Elastic, VirusTotal, TryHackMe | **Links:** [Project 1](https://github.com/AndyWeSec/SOC-Simulator-Phishing) | [Project 2](https://github.com/AndyWeSec/SOC-Simulator-Phishing-2)
 
+*   **Tech:** Triaged phishing emails, web attacks, and insider threats, analyzing headers and C2 domains with OSINT tools.
+*   **🎯 Interview Focus:** Proves capability in analyzing raw email headers, SPF/DKIM/DMARC alignment, and structured triage workflow for phishing attacks.
 
 ---
 
 ### 🔍 2. Active Directory & Endpoint Detection Lab
-**Tools Used:** `Wazuh EDR` `Windows Server` `Kali Linux` `Sysinternals` `Wireshark`
-* Built a complete telemetry environment by deploying a Windows Server Active Directory domain controller and workstation alongside a **Wazuh EDR** manager.
-* Simulated real-world attack vectors (such as brute force and privilege escalation) from a **Kali Linux** instance to generate realistic log data.
-* Analysed endpoint telemetry using **Sysinternals** and parsed malicious network traffic within **Wireshark** to map events against the MITRE ATT&CK framework.
+**Tools:** Wazuh EDR, Win Server, Kali, Sysinternals, Wireshark | **Links:** [Wireshark Repo](https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation)
 
+*   **Tech:** Deployed AD with Wazuh, simulated/investigated attacks from Kali, and analyzed telemetry and packet captures.
+*   **🎯 Interview Focus:** Highlights proficiency in Wireshark, identifying anomalous TCP/UDP traffic, and mapping host events to MITRE ATT&CK.
 
 ---
 
-### 🧪 3. Network Test Project & Automation Sandbox
-**Tools Used:** `Python` `Bash` `Nmap` `pfSense`
-* Configured a custom **pfSense firewall** network sandbox to securely test script automation and network scanning utilities.
-* Developed custom **Python** and **Bash** scripts to automate baseline **Nmap** network scans and flag unauthorized open ports.
-* Parsed raw log outputs into structured JSON format to test ingestion capabilities for downstream monitoring platforms.
+### 🧪 3. Network Test Project & Incident Response Scenario
+**Tools:** Python, Bash, Nmap, pfSense | **Links:** [Scenario](https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario)
 
+*   **Tech:** Configured a pfSense sandbox, automated network scans with Python/Bash, and parsed logs into JSON.
+*   **🎯 Interview Focus:** Demonstrates skills in tracing multi-stage threats across log streams, automating analysis, and building incident timelines.
 
-## 📁 Featured Cybersecurity Projects
-
-Review my individual repositories for deep-dive technical breakdowns, configuration steps, and full attack-to-detection analysis timelines:
-
-* **[Project 1: SOC Simulator Phishing](https://github.com/AndyWeSec/SOC-Simulator-Phishing)**  
-  *Triaging user-reported messaging threats and extracting active domain IOCs.*
-* **[Wireshark Investigation](https://github.com/AndyWeSec/SOC-Analayst-Wireshark-Investigation)**  
-  *Isolating anomalous TCP/UDP network flows, protocol behavior, and C2 beacons.*
-* **[Project 2: SOC Simulator Phishing Part 2](https://github.com/AndyWeSec/SOC-Simulator-Phishing-2)**  
-  *Advanced malicious header validation, attachment detonation, and credential harvesting triage.*
-* **[Project 3: SOC Analyst Invite-Only Scenario](https://github.com/AndyWeSec/SOC-Analyst-Invite-Only-Scenario)**  
-  *Stitching multi-stage attack components together to perform an end-to-end incident timeline audit.*
 
