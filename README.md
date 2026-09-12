@@ -5,7 +5,7 @@ Hands-on cyber security labs, threat investigation, and SOC Analyst training doc
 
 [Brief Introduction]
 
-Welcome to my cybersecurity portfolio. This space demonstrates my practical skills in threat detection, analysis, and incident response, honed through extensive use of TryHackMe simulations and labs. I have hands-on experience leveraging leading SIEM platforms, including Splunk and Elastic, to monitor security events, investigate incidents, and fortify digital defenses. Explore my projects to see how I apply these capabilities to real-world security challenges.
+Welcome to my cybersecurity portfolio. This space demonstrates my practical skills in threat detection, analysis, and incident response, honed through extensive use of TryHackMe simulations and labs. I have hands-on experience leveraging leading SIEM platforms, including Splunk and Elastic, to monitor security events, investigate incidents, and fortify digital defenses, and a completed Cyber Security internship with Future Interns. Explore my projects to see how I apply these capabilities to real-world security challenges.
 
 ### 🛠️ Core Infrastructure Competencies
 * **Network Defense (pfSense):** Built custom firewall sandboxes to understand perimeter security control and rule enforcement.
