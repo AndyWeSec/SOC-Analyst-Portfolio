@@ -75,7 +75,15 @@ Covering core concepts of online safety, threat identification, risk management,
 
 Entry-level course designed to prepare for work as a Security Operations Center Analyst. It focusing on defensive security fundamentals, alert monitoring, and incident response.
 
-Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and investigate security alerts using SIEM tools like Splunk, Elastic, and Wireshark...
+Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and investigate security alerts using SIEM tools like Splunk, Elastic, and Wireshark.
+
+### Future Interns – Cyber Security Internship
+
+📅 **August 2026 – September 2026** 📜 **Certificate Earned**
+
+Completed a 1-month structured Cyber Security internship at Future Interns (ISO 9001 certified), delivering task-based deliverables across vulnerability assessment, phishing analysis, and API security testing. Awarded a Letter of Recommendation citing professionalism, consistent technical improvement, and disciplined delivery against deadlines.
+
+**Verify:** CIN `FIT/AUG26/CS10206`
 
 
 
@@ -99,5 +107,27 @@ Understand SOC structure, workflows, roles, and KPIs. Monitor, triage, and inves
 - **Tech:** Built a pfSense lab to automate scans and analyze network traffic logs.
 - **🎯 Interview Focus:** Demonstrates abilities in creating incident timelines and automating threat detection.
 
+### 🌐 4. Web Application Vulnerability Assessment (demo.testfire.net)
 
+**Tools:** OWASP ZAP, Nmap | **Links:** [Project](https://github.com/AndyWeSec/FUTURE_CS_01)
+
+- **Tech:** Ran a full vulnerability assessment against a live banking demo app, identifying 8 findings including SQL Injection, Reflected XSS, expired SSL/TLS, and a Slowloris DoS vulnerability (CVE-2007-6750), backed by a prioritized remediation roadmap.
+- **🎯 Interview Focus:** Demonstrates end-to-end vulnerability assessment methodology, CVE research, risk classification, and business-facing reporting.
+- *Future Interns Cyber Security Fellowship — Task 1*
+
+### 📧 5. Phishing Email Header Analysis
+
+**Tools:** MXToolbox Header Analyzer | **Links:** [Project](https://github.com/AndyWeSec/AndyWeSec-FUTURE_CS_02)
+
+- **Tech:** Investigated a live phishing email, uncovering a typosquatted sender domain (`micros0ft-support.com`), an insecure HTTP phishing link, and classic social engineering tactics like artificial urgency.
+- **🎯 Interview Focus:** Highlights email header forensics, typosquatting detection, and social engineering red-flag analysis.
+- *Future Interns Cyber Security Fellowship — Task 2*
+
+### 🔌 6. API Security Risk Analysis (postman-echo.com)
+
+**Tools:** Postman | **Links:** [Project](https://github.com/AndyWeSec/AndyWeSec-AndyWeSec-FUTURE_CS_03)
+
+- **Tech:** Assessed a public API endpoint, flagging a lack of authentication controls and disclosure of internal client runtime version data in response headers.
+- **🎯 Interview Focus:** Shows API security testing fundamentals and secure header/configuration awareness.
+- *Future Interns Cyber Security Fellowship — Task 3*
 
